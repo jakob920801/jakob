@@ -6,7 +6,7 @@
 
 #### 1. Primary motor area
 
-![Pasted image 20230915151832.png|200](/img/user/Image%files/Pasted%20image%2020230915151832.png)
+![Pasted image 20230915151832.png|200](/img/user/Image files/Pasted image 20230915151832.png)
 - motor homunculus
 - precentral gurys anterior to central sulcus ~ paracentral lobule 
 
